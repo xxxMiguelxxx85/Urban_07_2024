@@ -9,7 +9,7 @@ print(example[-1])
 print(example[5:])
 
 # 4-е задание
-print(example[: : -1])
+print(example[::-1])
 
 # 5-е задание
-print(example[1 : : 2])
+print(example[1::2])

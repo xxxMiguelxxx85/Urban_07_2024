@@ -1,6 +1,6 @@
-first = int(input("Введите первое число: "))
-second = int(input("Введите второе число: "))
-third = int(input("Введите третье число: "))
+first = int(input("Введите первое целое число: "))
+second = int(input("Введите второе целое число: "))
+third = int(input("Введите третье целое число: "))
 
 if first == second and second == third and third == first: # - Если все числа равны между собой, то вывести 3
     print(3)
